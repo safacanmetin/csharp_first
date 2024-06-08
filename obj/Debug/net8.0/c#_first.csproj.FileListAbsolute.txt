@@ -1,0 +1,14 @@
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\bin\Debug\net8.0\c#_first.exe
+C:\Users\S\Desktop\Projects\VSCODE\c#_first\bin\Debug\net8.0\c#_first.deps.json
+C:\Users\S\Desktop\Projects\VSCODE\c#_first\bin\Debug\net8.0\c#_first.runtimeconfig.json
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\bin\Debug\net8.0\c#_first.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\bin\Debug\net8.0\c#_first.pdb
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.AssemblyInfoInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.AssemblyInfo.cs
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.csproj.CoreCompileInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\refint\c#_first.dll
+c:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.pdb
+C:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\c#_first.genruntimeconfig.cache
+C:\Users\S\Desktop\Projects\VSCODE\c#_first\obj\Debug\net8.0\ref\c#_first.dll
